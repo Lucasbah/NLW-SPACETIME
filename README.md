@@ -1,4 +1,14 @@
-# Projeto da NLW Spacetime
+<h1 align="center">
+  <img alt="Banner" src="https://i.imgur.com/q1YmDhy.png"/>
+</h1>
+<h1 align="center"> Desafio Rocketseat: Cápsula do Tempo </h1>
+
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
 
 <p align="center">
 <img src=".github/Thumbnail.png" alt="Demonstração do Projeto" width="100%">
