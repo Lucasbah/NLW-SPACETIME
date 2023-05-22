@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="Banner" src="https://i.imgur.com/q1YmDhy.png"/>
 </h1>
-<h1 align="center"> Desafio Rocketseat: Página de Receita </h1>
+<h1 align="center"> Desafio Rocketseat: Cápsula do Tempo </h1>
 
 
 <p align="center">
